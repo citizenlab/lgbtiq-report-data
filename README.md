@@ -46,6 +46,11 @@ This directory includes per country ASN statistics.  It is a full table of AS nu
 
 This contains the excluded results for Indonesia based on the two blocking events: MNC event and Telkom event as documented in the methodology section of the report
 
+## testing_coverage
+
+This directory contains all networks where testing was done (not just those where annotations were present)  This is used to get a sense of how 
+widely a given country was tested and where those URLs were tested.  The count figure in these csv files refers to the unique measurements that were in tested.
+
 ## unfiltered
 
 This contains all results with annotations in the country without excluding any results and prior to merging as described in the methodology section of the report.
