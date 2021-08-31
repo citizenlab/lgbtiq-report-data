@@ -1,6 +1,6 @@
 # LGBTIQ-Report-Data
 
-This repo contains supporting data for the report REPORT-TITLE-HERE released jointly by [Citizen Lab](https://citizenlab.ca/), [OONI](https://ooni.org/) and [Outright International](https://outrightinternational.org/).
+This repo contains supporting data for the report released jointly by [Citizen Lab](https://citizenlab.ca/), [OONI](https://ooni.org/) and [Outright International](https://outrightinternational.org/).
 
 # Data
 
